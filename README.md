@@ -4,14 +4,29 @@
 ## This web application is MERN (MONGODB EXPRESS JS REACT JS NODES JS)Stack application that is simplified with clientside and serverside operations usien restful APIs.
 
 
-##Features
-User Profiles: Create and manage user accounts to track quiz progress and interact with the community.
+## Features
 
-Quizzes: Simple conceptual quizzes that can be created, attempted, and scored.
+* **User Profiles**  
+  - Create and manage personalized user accounts.
+  - Track your quiz progress and scores.
+  - View your position on the leaderboard.
 
-Leaderboard: Display of top performers based on quiz scores.
+* **Quizzes**  
+  - Simple conceptual quizzes to test your knowledge.
+  - Quizzes can be attempted multiple times to improve scores.
+  - Scoring system that tracks your performance.
 
-Discussion & Help: Users can upload screenshots of scripts or problems and receive help from others via a comment-style system.
+* **Leaderboard**  
+  - Displays the top-performing users based on quiz scores.
+  - Compare your progress with other users and aim for the top!
 
-Quiz Creation: Users can design and share quizzes with the community.
+* **Discussion & Help**  
+  - Upload screenshots of problems or code snippets.
+  - Collaborate with others through a comment-style system to provide or receive help.
+
+* **Quiz Creation**  
+  - Design your own quizzes with multiple questions and difficulty levels.
+  - Share quizzes with the community for others to attempt.
+  - Provide explanations and answers to help others learn.
+
 
